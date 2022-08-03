@@ -83,3 +83,5 @@ $$f(a)=f(b) \Rightarrow b\in aN \Rightarrow aN=bN$$
 So $\bar f$ is a monomorphism. Let $G'=\mathrm{Im}\ f$. Now $\bar f$ is an epimorphism. Finally, an **isomorphism** 
 $$\bar f:G/ \mathrm{Ker}\ f\rightarrow \mathrm{Im}\ f$$
 is induced.$\ \ \ \square$
+
+is finished
