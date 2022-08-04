@@ -52,7 +52,7 @@ module.exports = {
   theme: "vuepress-theme-gungnir",
 
   themeConfig: {
-    repo: "Yuhan-W/my_blog",
+    repo: "Yuhan-W/Yuhan-W.github.io",
     docsDir: "blog",
     docsBranch: "master",
 
