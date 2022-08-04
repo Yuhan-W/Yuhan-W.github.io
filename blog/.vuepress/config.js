@@ -93,19 +93,24 @@ module.exports = {
         mask: "rgba(68, 74, 83, .1)"
       },
       {
-        path: "/img/home-bg/bg_11.webp"
+        path: "/img/home-bg/bg_11.webp",
+        mask: "rgba(68, 74, 83, .1)"
       },
       {
-        path: "/img/home-bg/bg_15.webp"
+        path: "/img/home-bg/bg_15.webp",
+        mask: "rgba(68, 74, 83, .1)"
       },
       {
-        path: "/img/home-bg/bg_18.webp"
+        path: "/img/home-bg/bg_18.webp",
+        mask: "rgba(68, 74, 83, .1)"
       },
       {
-        path: "/img/home-bg/bg_21.webp"
+        path: "/img/home-bg/bg_21.webp",
+        mask: "rgba(68, 74, 83, .1)"
       },
       {
-        path: "/img/home-bg/bg_22.webp"
+        path: "/img/home-bg/bg_22.webp",
+        mask: "rgba(68, 74, 83, .1)"
       },
     ],
 
