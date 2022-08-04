@@ -61,16 +61,16 @@ module.exports = {
     // personal information
     personalInfo: {
       name: "Yuhan",
-      avatar: "/img/avatar.jpg",
+      avatar: "/img/myavatar.jpg",
       description: "CS undergraduate",
       sns: {
         github: "Yuhan-W",
         linkedin: "xiaohan-zou",
         facebook: "renovamen.zou",
-        twitter: "renovamen_zxh",
+        twitter: "real_wangyuhan",
         zhihu: "wang-yu-han-74-82",
         email: "cnwangyuhan@gmail.com",
-        //rss: "/rss.xml"
+        rss: "/rss.xml"
       }
     },
 
