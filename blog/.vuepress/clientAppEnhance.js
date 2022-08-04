@@ -14,7 +14,8 @@ import {
   HiMail,
   FaPaw,
   AiCv,
-  AiGoogleScholarSquare
+  AiGoogleScholarSquare,
+  RiBook2Fill
 } from "oh-vue-icons/icons";
 import About from "./components/About.vue"
 
@@ -32,7 +33,8 @@ addIcons(
   HiMail,
   FaPaw,
   AiCv,
-  AiGoogleScholarSquare
+  AiGoogleScholarSquare,
+  RiBook2Fill
 );
 
 export default defineClientAppEnhance(({ app }) => {

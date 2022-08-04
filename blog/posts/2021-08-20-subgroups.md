@@ -1,9 +1,9 @@
 ---
 layout: Post
-title: Group Theory
-subtitle: test
+title: "Algebra: Subgroups and homomorphisms"
+subtitle: Understanding the Properties of Groups
 author: Yuhan Wang
-date: 2022-05-16
+date: 2021-08-20
 useHeaderImage: true
 headerImage: /img/in-post/2021-07-28/header.jpeg
 headerMask: rgba(40, 57, 101, .4)
@@ -83,5 +83,3 @@ $$f(a)=f(b) \Rightarrow b\in aN \Rightarrow aN=bN$$
 So $\bar f$ is a monomorphism. Let $G'=\mathrm{Im}\ f$. Now $\bar f$ is an epimorphism. Finally, an **isomorphism** 
 $$\bar f:G/ \mathrm{Ker}\ f\rightarrow \mathrm{Im}\ f$$
 is induced.$\ \ \ \square$
-
-is finished
