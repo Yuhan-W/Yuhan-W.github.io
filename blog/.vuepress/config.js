@@ -54,13 +54,13 @@ module.exports = {
   themeConfig: {
     repo: "Yuhan-W/Yuhan-W.github.io",
     docsDir: "blog",
-    docsBranch: "master",
+    docsBranch: "main",
 
     //hitokoto: "https://v1.hitokoto.cn?c=i", // enable hitokoto (一言) or not?
 
     // personal information
     personalInfo: {
-      name: "Yuhan",
+      name: "Yuhan's Blog",
       avatar: "/img/myavatar.jpg",
       description: "CS undergraduate",
       sns: {
