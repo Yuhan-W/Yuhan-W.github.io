@@ -1,7 +1,7 @@
 ---
 layout: About
 title: About
-avatar: /img/avatar.jpg
+avatar: /img/myavatar.jpg
 name: Yuhan Wang
 subname: 王宇晗
 cv: /files/cv/en/brief.pdf
@@ -18,37 +18,3 @@ Her current research interests lie primarily in topics related to exploring the 
 |---|---|
 | **M.S. in Computer Science**, Boston University | 2021-2023 |
 | **B.Eng. in Software Engineering**, Tongji University <p style="margin-top: 5px">Thesis: *Food Image Aesthetic Assessment and Captioning*</p> <p>Advisor: [Prof. Qinpei Zhao](http://sse.tongji.edu.cn/zhaoqinpei)</p> | 2016-2020 |
-
-
-## Publications
-
-- **TokenFlow: Rethinking Fine-grained Cross-modal Alignment in Vision-Language Retrieval**
-
-  **Xiaohan Zou**, Changqiao Wu, Lele Cheng, and Zhongyuan Wang
-
-  In submission, 2022
-
-- **Efficient Meta-Learning for Continual Learning with Taylor Expansion Approximation**
-
-  **Xiaohan Zou**, and Tong Lin
-
-  International Joint Conference on Neural Networks **(IJCNN)**, 2022
-
-- **To be an Artist: Automatic Generation on Food Image Aesthetic Captioning**
-
-  **Xiaohan Zou**, Cheng Lin, Yinjia Zhang, and Qinpei Zhao
-
-  International Conference on Tools with Artificial Intelligence **(ICTAI)**, 2020 
-  
-  **Oral Presentation**
-
-  [[Paper]](https://ieeexplore.ieee.org/document/9288208) [[Code]](https://github.com/Renovamen/Food-IAC) [[Slide]](/files/papers/ictai2020/food-iac-slide.pdf)
-
-- **A Survey on Application of Knowledge Graph**
-
-  **Xiaohan Zou**
-
-  International Conference on Control Engineering and Artificial Intelligence **(CCEAI)**, 2020
-
-  [[Paper]](https://iopscience.iop.org/article/10.1088/1742-6596/1487/1/012016/pdf)
-
