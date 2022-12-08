@@ -2,7 +2,7 @@
 layout: Links
 title: Links
 links:
-  - title: 我自己能用就完事了
+  - title: Project
     items:
       - sitename: Flint
         url: https://github.com/Renovamen/flint
@@ -36,7 +36,7 @@ links:
         url: https://wordle.zxh.io
         img: /img/links/wordle.jpg
         desc: Wordle 作弊小工具
-  - title: 咸鱼翻滚
+  - title: Courses
     items:
       - sitename: What If?
         url: https://note.zxh.io
