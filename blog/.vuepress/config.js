@@ -62,15 +62,15 @@ module.exports = {
     personalInfo: {
       name: "Yuhan's Blog",
       avatar: "/img/myavatar.jpg",
-      description: "CS undergraduate",
+      description: "CS, Math, Physics",
       sns: {
         github: "Yuhan-W",
-        linkedin: "xiaohan-zou",
-        facebook: "renovamen.zou",
+        linkedin: "yuhan-wang-cn",
+        facebook: "yuhanwang.us",
         twitter: "real_wangyuhan",
         zhihu: "wang-yu-han-74-82",
         email: "cnwangyuhan@gmail.com",
-        rss: "/rss.xml"
+        //rss: "/rss.xml"
       }
     },
 
