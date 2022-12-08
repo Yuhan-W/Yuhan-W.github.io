@@ -1,0 +1,1 @@
+const t={key:"v-74bc627b",path:"/about/",title:"About",lang:"en-US",frontmatter:{layout:"About",title:"About",avatar:"/img/myavatar.jpg",name:"Yuhan Wang",subname:"\u738B\u5B87\u6657",cv:"/files/cv/en/brief.pdf"},excerpt:"",headers:[],git:{updatedTime:1670480682e3},readingTime:{minutes:1,words:0},filePathRelative:"about/README.md"};export{t as data};
