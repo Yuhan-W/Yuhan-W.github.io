@@ -2,16 +2,16 @@
 layout: Links
 title: Links
 links:
-  - title: Project
+  - title: Projects
     items:
-      - sitename: Flint
-        url: https://github.com/Renovamen/flint
+      - sitename: Generative Models
+        url: https://github.com/Yuhan-W/Generative-Models
         img: /img/links/flint.svg
-        desc: 山寨版 PyTorch
-      - sitename: torchop
-        url: https://github.com/Renovamen/torchop
+        desc: Pytorch implementations of classic generative models
+      - sitename: Meta Learning
+        url: https://github.com/Yuhan-W/meta-learning
         img: /img/links/torchop.svg
-        desc: 一些注意力/卷积算子
+        desc: Implementations of MAML, Repptile
       - sitename: torchmasked
         url: https://github.com/Renovamen/torchmasked
         img: /img/links/torchmasked.svg
